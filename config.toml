@@ -1,0 +1,4 @@
+baseURL = "https://musicjerryu-nanavazco.vercel.app"
+languageCode = "en-us"
+title = "Music Piano Classic Modern"
+theme = "hugo-theme-minos"
